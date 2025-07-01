@@ -1,0 +1,35 @@
+site_name: Lyrics Book
+site_url: https://doc.jinvic.top/lyrics
+repo_url: https://github.com/Jinvic/lyrics
+repo_name: Jinvic/lyrics
+site_description: some lyrics for self use.
+site_author: Jinvic
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.path
+    # - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+nav:
+  - Home: 'README.md'
+  - カンザキイオリ:
+    - 君の神様になりたい: 'カンザキイオリ/君の神様になりたい.md'
+    - カンザキイオリ: 'カンザキイオリ/人生はコメデイ.md'
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+        - jp
+        

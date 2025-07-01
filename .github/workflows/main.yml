@@ -1,0 +1,41 @@
+name: Build master
+
+on:
+  push:
+    branches:
+      - master
+      - test-cicd
+
+jobs:
+    release:
+        name: build docs
+        runs-on: ubuntu-latest
+
+        steps:
+            # 检出 Git 仓库
+            - name: Check out git repository
+              uses: actions/checkout@v4.1.1
+            # 安装 Python
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                python-version: '3.13'
+            # 安装 MkDocs
+            - name: Install dependencies
+              run: |
+                python -m pip install --upgrade pip
+                pip install mkdocs mkdocs-material
+            # 构建 MkDocs
+            - name: Build
+              run: |
+                mkdocs build
+
+            # 部署到服务器
+            - name: Sync files
+              uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+              with:
+                server: ${{ secrets.FTP_SERVER }}
+                username: ${{ secrets.FTP_USER }}
+                password: ${{ secrets.FTP_PASS }}
+                local-dir: ${{ github.workspace }}/site/
+                server-dir: ./gopkg/
