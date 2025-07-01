@@ -1,9 +1,9 @@
-name: Build master
+name: Build and Deploy
 
 on:
   push:
     branches:
-      - master
+      - main
       - test-cicd
 
 jobs:
@@ -38,4 +38,4 @@ jobs:
                 username: ${{ secrets.FTP_USER }}
                 password: ${{ secrets.FTP_PASS }}
                 local-dir: ${{ github.workspace }}/site/
-                server-dir: ./gopkg/
+                server-dir: ./lyrics/
