@@ -28,6 +28,7 @@ jobs:
             # 构建 MkDocs
             - name: Build
               run: |
+                python scripts/preprocess.py
                 mkdocs build
 
             # 部署到服务器

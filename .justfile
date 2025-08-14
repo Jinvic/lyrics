@@ -1,8 +1,8 @@
-# source .venv/Scripts/activate
-# deactivate
+set shell := ["powershell.exe", "-c"]
 
-install:
-    pip install mkdocs-material
+serve:
+    mkdocs serve
 
 build:
+    python scripts/preprocess.py
     mkdocs build -d dist
