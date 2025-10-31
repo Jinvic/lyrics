@@ -1,6 +1,10 @@
 set shell := ["powershell.exe", "-c"]
 
+process:
+    python scripts/preprocess.py
+
 serve:
+    python scripts/preprocess.py
     mkdocs serve
 
 build:

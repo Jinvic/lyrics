@@ -45,4 +45,10 @@ plugins:
         - zh
         - en
         - jp
-        
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true  # 可选：启用更紧凑样式
