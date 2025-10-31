@@ -14,7 +14,7 @@ theme:
     # - navigation.tabs.sticky
     - navigation.expand
     - navigation.path
-    # - navigation.indexes
+    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
@@ -24,14 +24,20 @@ nav:
   - Home: 'README.md'
   - Catalog: 'catalog.md'
   - カンザキイオリ:
+    - 'カンザキイオリ/index.md'
     - 命に嫌われている: 'カンザキイオリ/命に嫌われている.md'
     - あの夏が飽和する: 'カンザキイオリ/あの夏が飽和する.md'
     - 死ぬとき死ねばいい: 'カンザキイオリ/死ぬとき死ねばいい.md'
     - 人生はコメデイ: 'カンザキイオリ/人生はコメデイ.md'
     - 君の神様になりたい: 'カンザキイオリ/君の神様になりたい.md'
     - 自由に捕らわれる: 'カンザキイオリ/自由に捕らわれる.md'
-    - 愛があれば: 'カンザキイオリ/愛があれば.md'
+    - 不器用な男: カンザキイオリ/不器用な男.md
     - 少年少女: 'カンザキイオリ/少年少女.md'
+    - 愛があれば: 'カンザキイオリ/愛があれば.md'
+    - 音楽なんてわからない: カンザキイオリ/音楽なんてわからない.md
+    - 進化劇: カンザキイオリ/進化劇.md
+    - 地獄に落ちる: カンザキイオリ/地獄に落ちる.md
+    - 人間じゃない癖に: カンザキイオリ/人間じゃない癖に.md
 
 plugins:
   - search:
