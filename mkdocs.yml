@@ -42,6 +42,7 @@ nav:
     - 'deco27/index.md'
     - 二息步行: 'deco27/二息步行.md'
     - モザイクロール: 'deco27/モザイクロール.md'
+    - 妄想税: 'deco27/妄想税.md'
 
 plugins:
   - search:
