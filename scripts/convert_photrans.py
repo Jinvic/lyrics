@@ -3,8 +3,8 @@ import sys
 import os
 
 def replace_photrans(text):
-    # 匹配 {{photrans|文本|注音}}，其中文本和注音不包含 | 或 }
-    pattern = r'\{\{photrans\|([^|}]+)\|([^|}]+)\}\}'
+    # 匹配 {{photrans...|文本|注音}}，其中模板名以 photrans 开头（大小写不敏感），后可跟数字
+    pattern = r'\{\{(?i:photrans\d*)\|([^|}]+)\|([^|}]+)\}\}'
     return re.sub(pattern, r'\1（\2）', text)
 
 def main():
