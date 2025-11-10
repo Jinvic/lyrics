@@ -21,7 +21,7 @@ theme:
     - search.share
 
 nav:
-  - Home: 'README.md'
+  - Home: 'index.md'
   - Catalog: 'catalog.md'
   - カンザキイオリ:
     - 'カンザキイオリ/index.md'
