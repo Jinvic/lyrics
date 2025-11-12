@@ -72,7 +72,6 @@ def generate_tabbed_translation(lines: List[str]) -> str:
         else:
             # 内容段落：判断是否为原文/译文对
             if len(para) % 2 == 0 and len(para) > 0:
-                # 偶数行：视为交替的原文/译文
                 for i in range(0, len(para), 2):
                     orig = para[i]
                     trans = para[i + 1]
@@ -81,7 +80,7 @@ def generate_tabbed_translation(lines: List[str]) -> str:
                     interleaved_lines.append('')
                     interleaved_lines.append(trans)
             else:
-                # 奇数行：视为无翻译的原文（如标题）
+                # 奇数行：视为无翻译原文
                 for line in para:
                     original_lines.append(line)
                     interleaved_lines.append(line)
@@ -96,26 +95,15 @@ def generate_tabbed_translation(lines: List[str]) -> str:
 {indent_block(interleaved_content)}
 """
 
-def process_translated_content(body: str) -> str:
-    """处理带翻译的正文：提取标题，其余内容生成标签页"""
+def process_translated_content(meta: dict, body: str) -> str:
+    """处理带翻译的正文，标题从 meta 中获取"""
     lines = body.split('\n')
-    
-    title_line = None
-    content_lines = lines
+    tabbed_content = generate_tabbed_translation(lines)
 
-    # 检查第一行是否为一级标题
-    if lines and lines[0].startswith('# '):
-        title_line = lines[0]
-        # 跳过标题行及其后的空行（最多一个）
-        i = 1
-        while i < len(lines) and lines[i].strip() == '':
-            i += 1
-        content_lines = lines[i:]
-
-    tabbed_content = generate_tabbed_translation(content_lines)
-
-    if title_line is not None:
-        return f"{title_line}\n\n{tabbed_content}"
+    # 从 meta 中获取标题
+    title = meta.get('title')
+    if title:
+        return f"# {title}\n\n{tabbed_content}"
     else:
         return tabbed_content
 
@@ -129,12 +117,17 @@ def convert_file(input_path: str, output_path: str):
 
     if meta.get('translated') is True:
         try:
-            processed_body = process_translated_content(body)
+            processed_body = process_translated_content(meta, body)
         except Exception as e:
             print(f"⚠️ 警告：翻译处理失败 ({input_path})：{e}")
             processed_body = body
     else:
-        processed_body = body
+        # 无翻译：直接使用 body，但可选择是否保留 title
+        title = meta.get('title')
+        if title:
+            processed_body = f"# {title}\n\n{body}"
+        else:
+            processed_body = body
 
     final_content = convert_ruby_syntax(processed_body)
 
