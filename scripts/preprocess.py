@@ -96,24 +96,41 @@ def generate_tabbed_translation(lines: List[str]) -> str:
 """
 
 def process_translated_content(meta: dict, body: str) -> str:
-    """处理带翻译的正文，标题从 meta 中获取"""
+    """处理带翻译的正文，支持 title 和 video"""
     lines = body.split('\n')
     tabbed_content = generate_tabbed_translation(lines)
 
-    # 从 meta 中获取标题
+    parts = []
+
+    # 1. 标题
     title = meta.get('title')
     if title:
-        return f"# {title}\n\n{tabbed_content}"
-    else:
-        return tabbed_content
+        parts.append(f"# {title}")
+
+    # 2. 视频（如果存在）
+    video_url = meta.get('video')
+    if video_url and isinstance(video_url, str) and video_url.strip():
+        video_url = video_url.strip()
+        # 使用标准 HTML5 video 标签，带 controls 和响应式
+        video_html = f'<video src="{video_url}" controls style="width:100%; max-width:800px; height:auto;"></video>'
+        parts.append(video_html)
+
+    # 3. 标签页内容
+    parts.append(tabbed_content)
+
+    return '\n\n'.join(parts)
 
 def convert_file(input_path: str, output_path: str):
-    """读取文件，根据元数据决定是否生成翻译标签页，并转换注音"""
+    """读取文件，根据元数据生成带标题、视频、翻译的内容，并转换注音"""
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(input_path, 'r', encoding='utf-8') as f:
         raw_content = f.read()
 
     meta, body = parse_front_matter(raw_content)
+
+    title = meta.get('title')
+    video_url = meta.get('video')
+    has_video = video_url and isinstance(video_url, str) and video_url.strip()
 
     if meta.get('translated') is True:
         try:
@@ -122,12 +139,15 @@ def convert_file(input_path: str, output_path: str):
             print(f"⚠️ 警告：翻译处理失败 ({input_path})：{e}")
             processed_body = body
     else:
-        # 无翻译：直接使用 body，但可选择是否保留 title
-        title = meta.get('title')
+        # 无翻译：普通正文
+        parts = []
         if title:
-            processed_body = f"# {title}\n\n{body}"
-        else:
-            processed_body = body
+            parts.append(f"# {title}")
+        if has_video:
+            vid = video_url.strip()
+            parts.append(f'<video src="{vid}" controls style="width:100%; max-width:800px; height:auto;"></video>')
+        parts.append(body)
+        processed_body = '\n\n'.join(parts)
 
     final_content = convert_ruby_syntax(processed_body)
 
