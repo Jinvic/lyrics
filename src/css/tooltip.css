@@ -17,3 +17,13 @@
   white-space: nowrap;
   z-index: 1000;
 }
+
+
+.tooltip.clickable {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.tooltip.clickable:hover {
+  color: #3f51b5;
+}

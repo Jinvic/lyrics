@@ -1,15 +1,15 @@
 {
-	"Icon with Tooltip": {
-		"scope": "markdown",
-		"prefix": [
-			"/tt",
-			"/tooltip"
-		],
-		"body": [
-			"<span class=\"tooltip\" data-tooltip=\"by: $1\">$2</span>"
-		],
-		"description": "Add icon with tooltip"
-	},
+	// "Icon with Tooltip": {
+	// 	"scope": "markdown",
+	// 	"prefix": [
+	// 		"/tt",
+	// 		"/tooltip"
+	// 	],
+	// 	"body": [
+	// 		"<span class=\"tooltip\" data-tooltip=\"by: $1\">$2</span>"
+	// 	],
+	// 	"description": "Add icon with tooltip"
+	// },
 	"Translation Icon with Tooltip": {
 		"scope": "markdown",
 		"prefix": [
@@ -29,5 +29,25 @@
 			"<span class=\"tooltip\" data-tooltip=\"by: $1\">🎤</span>",
 		],
 		"description": "Add nikokara icon with tooltip"
+	},
+	"Translation Icon with Tooltip and Link": {
+		"scope": "markdown",
+		"prefix": [
+			"/hyl"
+		],
+		"body": [
+			"<span class=\"tooltip clickable\" data-tooltip=\"by: $1\" data-href=\"$2\">📝</span>",
+		],
+		"description": "Add translation icon with tooltip and link"
+	},
+	"Nikokara Icon with Tooltip and Link": {
+		"scope": "markdown",
+		"prefix": [
+			"/nkl"
+		],
+		"body": [
+			"<span class=\"tooltip clickable\" data-tooltip=\"by: $1\" data-href=\"$2\">🎤</span>",
+		],
+		"description": "Add nikokara icon with tooltip and link"
 	}
 }

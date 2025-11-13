@@ -77,3 +77,5 @@ markdown_extensions:
 
 extra_css:
   - css/tooltip.css
+extra_javascript:
+  - js/tooltip.js
