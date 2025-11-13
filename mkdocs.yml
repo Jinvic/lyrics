@@ -74,3 +74,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true  # 可选：启用更紧凑样式
+
+extra_css:
+  - css/tooltip.css

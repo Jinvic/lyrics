@@ -166,11 +166,18 @@ def main():
 
     for root, _, files in os.walk(src_dir):
         for filename in files:
+            input_path = os.path.join(root, filename)
+            rel_path = os.path.relpath(input_path, src_dir)
+            output_path = os.path.join(docs_dir, rel_path)
+
             if filename.endswith('.md'):
-                input_path = os.path.join(root, filename)
-                rel_path = os.path.relpath(input_path, src_dir)
-                output_path = os.path.join(docs_dir, rel_path)
+                # Markdown 文件：转换
                 convert_file(input_path, output_path)
+            else:
+                # 非 Markdown 文件：直接复制
+                os.makedirs(os.path.dirname(output_path), exist_ok=True)
+                shutil.copy2(input_path, output_path)
+                print(f"📎 已复制: {output_path}")
 
     print("🎉 所有文件转换完成！")
 
