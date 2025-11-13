@@ -21,7 +21,6 @@
 
 .tooltip.clickable {
   cursor: pointer;
-  text-decoration: underline;
 }
 
 .tooltip.clickable:hover {
