@@ -15,8 +15,8 @@
 - [愛があれば](./愛があれば.md)
 <span class="tooltip clickable" data-tooltip="by: 89" data-href="https://w.atwiki.jp/vocaloidchly/pages/7845.html">📝</span>
 <span class="tooltip clickable" data-tooltip="by: ぺるたん♫ニコカラ チャンネル" data-href="https://www.youtube.com/watch?v=7GD0X0bqzoA">🎤</span>
-- ハグ
-<!-- <span class="tooltip clickable" data-tooltip="by: 本堂町小春" data-href="https://zh.moegirl.org.cn/%E6%8B%A5%E6%8A%B1(%E6%AD%8C%E6%9B%B2)">📝</span> -->
+- [ハグ](./ハグ.md)
+<span class="tooltip clickable" data-tooltip="by: 本堂町小春" data-href="https://zh.moegirl.org.cn/%E6%8B%A5%E6%8A%B1(%E6%AD%8C%E6%9B%B2)">📝</span>
 - [自由に捕らわれる](./自由に捕らわれる.md)
 <span class="tooltip clickable" data-tooltip="by: 弓野篤禎" data-href="https://w.atwiki.jp/vocaloidchly/pages/7865.html">📝</span>
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=krnD9Vvkmdo">🎤</span>
