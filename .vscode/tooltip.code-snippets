@@ -49,5 +49,19 @@
 			"<span class=\"tooltip clickable\" data-tooltip=\"by: $1\" data-href=\"$2\">🎤</span>",
 		],
 		"description": "Add nikokara icon with tooltip and link"
+	},
+	"Notes of Tooltops": {
+		"scope": "markdown",
+		"prefix": [
+			"/note",
+			"/nt",
+		],
+		"body": [
+			"???+ note \"MARK\"\n",
+			"\t鼠标悬停显示原作者，点击跳转原连接\n",
+			"\t- 📝：翻訳あり",
+			"\t- 🎤：ニコカラあり"
+		],
+		"description": "Notes of Tooltops"
 	}
 }
