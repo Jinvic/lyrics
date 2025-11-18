@@ -20,7 +20,8 @@
 - [自由に捕らわれる](./自由に捕らわれる.md)
 <span class="tooltip clickable" data-tooltip="by: 弓野篤禎" data-href="https://w.atwiki.jp/vocaloidchly/pages/7865.html">📝</span>
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=krnD9Vvkmdo">🎤</span>
-- 告白
+- [告白](./告白.md)
+<span class="tooltip clickable" data-tooltip="by: Mochitsuki_Nai" data-href="https://w.atwiki.jp/vocaloidchly/pages/8181.html">📝</span>
 - [あの夏が飽和する](./あの夏が飽和する.md)
 <span class="tooltip clickable" data-tooltip="by: 双翼" data-href="https://www9.atwiki.jp/vocaloidchly/pages/7927.html">📝</span>
 <span class="tooltip clickable" data-tooltip="by: ぺるたん♫ニコカラ チャンネル" data-href="https://www.youtube.com/watch?v=YMfhhbN3UfQ">🎤</span>
