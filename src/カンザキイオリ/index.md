@@ -26,6 +26,7 @@
 <span class="tooltip clickable" data-tooltip="by: 双翼" data-href="https://www9.atwiki.jp/vocaloidchly/pages/7927.html">📝</span>
 <span class="tooltip clickable" data-tooltip="by: ぺるたん♫ニコカラ チャンネル" data-href="https://www.youtube.com/watch?v=YMfhhbN3UfQ">🎤</span>
 - [空白](./空白.md)
+<span class="tooltip clickable" data-tooltip="by: 井泉冬流" data-href="https://www.bilibili.com/video/BV1Fb411M7AG">📝</span>
 - [進化劇](./進化劇.md)
 - [音楽なんてわからない](./音楽なんてわからない.md)
 <span class="tooltip clickable" data-tooltip="by: 佚名" data-href="https://zh.moegirl.org.cn/%E6%88%91%E4%B8%8D%E6%87%82%E9%9F%B3%E4%B9%90">📝</span>
