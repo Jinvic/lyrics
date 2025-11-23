@@ -24,11 +24,13 @@
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=krnD9Vvkmdo">🎤</span>
 - [告白](./告白.md)
 <span class="tooltip clickable" data-tooltip="by: Mochitsuki_Nai" data-href="https://w.atwiki.jp/vocaloidchly/pages/8181.html">📝</span>
+<span class="tooltip clickable" data-tooltip="by: ★ぺるたん✪" data-href="https://www.nicovideo.jp/watch/sm33344920">🎤</span>
 - [あの夏が飽和する](./あの夏が飽和する.md)
 <span class="tooltip clickable" data-tooltip="by: 双翼" data-href="https://www9.atwiki.jp/vocaloidchly/pages/7927.html">📝</span>
 <span class="tooltip clickable" data-tooltip="by: ぺるたん♫ニコカラ チャンネル" data-href="https://www.youtube.com/watch?v=YMfhhbN3UfQ">🎤</span>
 - [空白](./空白.md)
 <span class="tooltip clickable" data-tooltip="by: 井泉冬流" data-href="https://www.bilibili.com/video/BV1Fb411M7AG">📝</span>
+<span class="tooltip clickable" data-tooltip="by: ★ぺるたん✪" data-href="https://www.nicovideo.jp/watch/sm34952575">🎤</span>
 - [進化劇](./進化劇.md)
 - [音楽なんてわからない](./音楽なんてわからない.md)
 <span class="tooltip clickable" data-tooltip="by: 佚名" data-href="https://zh.moegirl.org.cn/%E6%88%91%E4%B8%8D%E6%87%82%E9%9F%B3%E4%B9%90">📝</span>
@@ -49,8 +51,10 @@
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=4XGIettPa6I">🎤</span>
 - [あの春を返して](./あの春を返して.md)
 <span class="tooltip clickable" data-tooltip="by: 月勳" data-href="https://home.gamer.com.tw/artwork.php?sn=5926441">📝</span>
+<span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=bjlW3z7hXQM">🎤<span>
 - あんたは死んだ
 - [なぜ](./なぜ.md)
+<span class="tooltip clickable" data-tooltip="by: ニコカラ" data-href="https://www.youtube.com/watch?v=iv3BwC3FgdQ">🎤</span>
 - [人間じゃない癖に](./人間じゃない癖に.md)
 <span class="tooltip clickable" data-tooltip="by: Jinvic" data-href="https://www.bilibili.com/video/BV1LHkiBAEZe">🎤</span>
 - [少年少女](./少年少女.md)
