@@ -51,6 +51,8 @@
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=4XGIettPa6I">🎤</span>
 - [文化になっていく](./文化になっていく.md)
 <span class="tooltip clickable" data-tooltip="by: 月勳" data-href="https://home.gamer.com.tw/artwork.php?sn=5769063">📝</span>
+- [25時の情熱](./25時の情熱.md)
+<span class="tooltip clickable" data-tooltip="by: ijndjdjdj" data-href="https://www.bilibili.com/video/BV15K411b72x">📝</span>
 - [あの春を返して](./あの春を返して.md)
 <span class="tooltip clickable" data-tooltip="by: 月勳" data-href="https://home.gamer.com.tw/artwork.php?sn=5926441">📝</span>
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=bjlW3z7hXQM">🎤<span>
