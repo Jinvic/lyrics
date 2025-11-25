@@ -12,7 +12,7 @@ theme:
     - navigation.instant.progress
     # - navigation.tabs
     # - navigation.tabs.sticky
-    - navigation.expand
+    # - navigation.expand
     - navigation.path
     - navigation.indexes
     - navigation.top
