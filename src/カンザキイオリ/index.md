@@ -49,6 +49,8 @@
 - [地獄に落ちる](./地獄に落ちる.md)
 <span class="tooltip clickable" data-tooltip="by: 千鹤浅灰" data-href="https://zh.moegirl.org.cn/%E5%9D%A0%E5%85%A5%E5%9C%B0%E7%8B%B1">📝</span>
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=4XGIettPa6I">🎤</span>
+- [文化になっていく](./文化になっていく.md)
+<span class="tooltip clickable" data-tooltip="by: 月勳" data-href="https://home.gamer.com.tw/artwork.php?sn=5769063">📝</span>
 - [あの春を返して](./あの春を返して.md)
 <span class="tooltip clickable" data-tooltip="by: 月勳" data-href="https://home.gamer.com.tw/artwork.php?sn=5926441">📝</span>
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=bjlW3z7hXQM">🎤<span>
