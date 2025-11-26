@@ -16,5 +16,6 @@
 - 世界で一番じゃない貴方を愛したら
 - オノマトペ
 - 抜刀
-- ぼくのかみさま
+- [ぼくのかみさま](./ぼくのかみさま.md)
+<span class="tooltip clickable" data-tooltip="by: 萌萌哒汪帕斯" data-href="https://www.bilibili.com/opus/1004850226464292871">📝</span>
 - 我愛メイデン
