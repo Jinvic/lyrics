@@ -43,7 +43,10 @@
 <span class="tooltip clickable" data-tooltip="by: ななつ【ニコカラ】" data-href="https://www.youtube.com/watch?v=k47-rquzYKg">🎤</span>
 - ゼロ
 - [爆弾](./爆弾.md)
+- 桜の子
+<span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=nL6l9ABhbaE">🎤</span>
 - 成长痛
+<span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=0agVy9HAmu0">🎤</span>
 - [大人](./大人.md)
 - [不器用な男](./不器用な男.md)
 - [地獄に落ちる](./地獄に落ちる.md)
@@ -57,9 +60,14 @@
 <span class="tooltip clickable" data-tooltip="by: 月勳" data-href="https://home.gamer.com.tw/artwork.php?sn=5926441">📝</span>
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=bjlW3z7hXQM">🎤<span>
 - あんたは死んだ
+<span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=6JFGrSfqTdk">🎤</span>
 - [なぜ](./なぜ.md)
 <span class="tooltip clickable" data-tooltip="by: ニコカラ" data-href="https://www.youtube.com/watch?v=iv3BwC3FgdQ">🎤</span>
 - [人間じゃない癖に](./人間じゃない癖に.md)
 <span class="tooltip clickable" data-tooltip="by: Jinvic" data-href="https://www.bilibili.com/video/BV1LHkiBAEZe">🎤</span>
 - [少年少女](./少年少女.md)
 <span class="tooltip clickable" data-tooltip="by: ニコカラ" data-href="https://www.youtube.com/watch?v=6nQ2T5jS8E0">🎤</span>
+- 君の肺には宇宙が広がっている
+<span class="tooltip clickable" data-tooltip="by: ななつ【ニコカラ】" data-href="https://www.youtube.com/watch?v=O_A7Upflb9w">🎤</span>
+- 泥虫
+<span class="tooltip clickable" data-tooltip="by: ななつ【ニコカラ】" data-href="https://www.youtube.com/watch?v=dFiccALtqPA">🎤</span>
