@@ -38,7 +38,7 @@
 - [死ぬとき死ねばいい](./死ぬとき死ねばいい.md)
 <span class="tooltip clickable" data-tooltip="by: Rin、Ant1597" data-href="https://zh.moegirl.org.cn/%E6%AD%BB%E5%8E%BB%E7%9A%84%E9%82%A3%E6%97%B6%E5%86%8D%E6%AD%BB%E5%B0%B1%E5%A5%BD">📝</span>
 <span class="tooltip clickable" data-tooltip="by: ぺるたん♫ニコカラ チャンネル" data-href="https://www.youtube.com/watch?v=Sxaco4EvyjQ">🎤</span>
-- [人生はコメデイ](./人生はコメデイ.md)
+- [人生はコメディ](./人生はコメディ.md)
 <span class="tooltip clickable" data-tooltip="by: 花绪" data-href="https://zh.moegirl.org.cn/%E4%BA%BA%E7%94%9F%E7%9A%86%E4%B8%BA%E5%96%9C%E5%89%A7">📝</span>
 <span class="tooltip clickable" data-tooltip="by: ななつ【ニコカラ】" data-href="https://www.youtube.com/watch?v=k47-rquzYKg">🎤</span>
 - ゼロ
