@@ -45,7 +45,8 @@
 - [爆弾](./爆弾.md)
 - 桜の子
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=nL6l9ABhbaE">🎤</span>
-- 成长痛
+- [成长痛](./成長痛.md)
+<span class="tooltip clickable" data-tooltip="by: 讲谈人" data-href="https://www.bilibili.com/opus/587431971386308184">📝</span>
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=0agVy9HAmu0">🎤</span>
 - [大人](./大人.md)
 - [不器用な男](./不器用な男.md)
