@@ -43,7 +43,8 @@
 <span class="tooltip clickable" data-tooltip="by: ななつ【ニコカラ】" data-href="https://www.youtube.com/watch?v=k47-rquzYKg">🎤</span>
 - ゼロ
 - [爆弾](./爆弾.md)
-- 桜の子
+- [桜の子](./桜の子.md)
+<span class="tooltip clickable" data-tooltip="by: 讲谈人" data-href="https://www.bilibili.com/opus/585551750672415904">📝</span>
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=nL6l9ABhbaE">🎤</span>
 - [成长痛](./成長痛.md)
 <span class="tooltip clickable" data-tooltip="by: 讲谈人" data-href="https://www.bilibili.com/opus/587431971386308184">📝</span>
