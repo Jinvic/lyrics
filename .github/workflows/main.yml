@@ -40,4 +40,4 @@ jobs:
                 password: ${{ secrets.FTP_PASS }}
                 local-dir: ${{ github.workspace }}/site/
                 server-dir: ./lyrics/
-                dangerous-clean-slate: true
+                # dangerous-clean-slate: true
