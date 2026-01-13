@@ -14,6 +14,30 @@
 歌词源文件在`src`目录下，通过脚本构建至`docs`目录。
 相关脚本在`scripts`目录下，其中`convert_photrans.py`用于处理萌娘百科（MediaWiki）的注音语法为自定义语法；`preprocess.py`用于从`src`构建至`docs`目录。
 
+## 构建流程
+
+```txt
+自定义语法 + Material for MkDocs语法
+
+--- preprocess.py --->
+
+纯Material for MkDocs语法
+
+--- Material for MkDocs --->
+
+渲染后的页面
+
+```
+
+如果你有使用[just](https://github.com/casey/just)，可以直接使用项目中的`.justfile`文件。
+
+或者，你也可以参考`.justfile`文件，直接运行相关命令即可。只需要在运行mkdocs命令前先运行`preprocess.py`脚本。例如：
+
+```bash
+python scripts/preprocess.py
+mkdocs build -d dist
+```
+
 ## 语法约定
 
 本项目在`Material for MkDocs`的基础上维护了一些简单易读的语法，示例如下。
@@ -95,7 +119,7 @@ comment: |
 - 如果元数据`video`有值，将在标题后正文前插入对应视频。
 - 如果元数据`video`有值，将在正文后插入对应评论。可以使用YAML的多行字符串语法（|）保留换行和格式等。
 
-## 贡献
+## 更新指南
 
 歌词路径为：`src/作者/歌曲名.md`。歌词文件内部语法参见上节语法约定。
 
