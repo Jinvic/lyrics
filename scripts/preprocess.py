@@ -13,6 +13,19 @@ def convert_ruby_syntax(content: str) -> str:
         content
     )
 
+def process_comment(comment_text: str) -> str:
+    """处理评论文本，转换为 Admonition 语法"""
+    if not comment_text or not comment_text.strip():
+        return ""
+    
+    # 清理并保留原始格式
+    lines = comment_text.strip().split('\n')
+    indented_content = '\n'.join(f"    {line}" if line else "    " for line in lines)
+    
+    return f"""??? quote "Comment"
+
+{indented_content}"""
+
 def parse_front_matter(content: str):
     """解析 Markdown 文件头部的 YAML front matter，返回 (meta, body)"""
     if content.startswith('---\n'):
@@ -117,6 +130,12 @@ def process_translated_content(meta: dict, body: str) -> str:
 
     # 3. 标签页内容
     parts.append(tabbed_content)
+
+    # 4. 评论（如果有）
+    comment = meta.get('comment')
+    if comment:
+        comment_section = process_comment(comment)
+        parts.append(comment_section)
 
     return '\n\n'.join(parts)
 
