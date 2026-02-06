@@ -9,7 +9,8 @@
     - 💬：コメントあり
 
 - 空中分解
-- 表里一体
+- [表里一体](./表里一体.md)
+<span class="tooltip clickable" data-tooltip="by: 弓野篤禎" data-href="https://space.bilibili.com/19813002">📝</span>
 - ジャンキーナイトタウンオーケストラ
 - ビーバー
 - テレキャスタービーボーイ
