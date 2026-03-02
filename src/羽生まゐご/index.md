@@ -8,7 +8,7 @@
     - 🎤：ニコカラあり
 
 - [懺悔参り](./懺悔参り.md)
-<span class="tooltip" data-tooltip="by: 佚名">📝</span>
+    <span class="tooltip" data-tooltip="by: 佚名">📝</span>
 - ハレハレヤ
 - 阿吽のビーツ
 - ケガレの唄
@@ -17,5 +17,5 @@
 - オノマトペ
 - 抜刀
 - [ぼくのかみさま](./ぼくのかみさま.md)
-<span class="tooltip clickable" data-tooltip="by: 萌萌哒汪帕斯" data-href="https://www.bilibili.com/opus/1004850226464292871">📝</span>
+    <span class="tooltip clickable" data-tooltip="by: 萌萌哒汪帕斯" data-href="https://www.bilibili.com/opus/1004850226464292871">📝</span>
 - 我愛メイデン
