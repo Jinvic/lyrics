@@ -10,8 +10,9 @@
 
 - 空中分解
 - [表里一体](./表里一体.md)
-<span class="tooltip clickable" data-tooltip="by: 弓野篤禎" data-href="https://space.bilibili.com/19813002">📝</span>
-- ジャンキーナイトタウンオーケストラ
+    <span class="tooltip clickable" data-tooltip="by: 弓野篤禎" data-href="https://space.bilibili.com/19813002">📝</span>
+- [ジャンキーナイトタウンオーケストラ](./ジャンキーナイトタウンオーケストラ.md)
+    <span class="tooltip clickable" data-tooltip="by: 南海電鉄NaiKaiRW" data-href="https://space.bilibili.com/8205736">📝</span>
 - ビーバー
 - テレキャスタービーボーイ
 - 限りなく灰色へ
