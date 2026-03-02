@@ -6,7 +6,6 @@
 
     - 📝：翻訳あり
     - 🎤：ニコカラあり
-    - 💬：コメントあり
 
 - [懺悔参り](./懺悔参り.md)
 <span class="tooltip" data-tooltip="by: 佚名">📝</span>

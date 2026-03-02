@@ -6,7 +6,6 @@
 
     - 📝：翻訳あり
     - 🎤：ニコカラあり
-    - 💬：コメントあり
 
 - Adult Children
 - [命に嫌われている](./命に嫌われている.md)
@@ -61,8 +60,7 @@
 <span class="tooltip clickable" data-tooltip="by: ijndjdjdj" data-href="https://www.bilibili.com/video/BV15K411b72x">📝</span>
 - [あの春を返して](./あの春を返して.md)
 <span class="tooltip clickable" data-tooltip="by: 月勳" data-href="https://home.gamer.com.tw/artwork.php?sn=5926441">📝</span>
-<span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=bjlW3z7hXQM">🎤</span>
-💬
+<span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=bjlW3z7hXQM">🎤<span>
 - あんたは死んだ
 <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=6JFGrSfqTdk">🎤</span>
 - [なぜ](./なぜ.md)
