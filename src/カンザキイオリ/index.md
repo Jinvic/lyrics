@@ -71,7 +71,7 @@
     <span class="tooltip clickable" data-tooltip="by: ニコカラ" data-href="https://www.youtube.com/watch?v=6nQ2T5jS8E0">🎤</span>
 - 君の肺には宇宙が広がっている
     <span class="tooltip clickable" data-tooltip="by: ななつ【ニコカラ】" data-href="https://www.youtube.com/watch?v=O_A7Upflb9w">🎤</span>
-- 泥虫(./泥虫.md)
+- [泥虫](./泥虫.md)
     <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=dFiccALtqPA">🎤</span>
-- 怒り(./怒り.md)
+- [怒り](./怒り.md)
     <span class="tooltip clickable" data-tooltip="by: Amphion Join" data-href="https://www.youtube.com/watch?v=eJxHBgd1KTY">🎤</span>
