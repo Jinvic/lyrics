@@ -11,3 +11,4 @@
 - [ナユタン星人](./ナユタン星人/index.md)
 - [稲葉曇](./稲葉曇/index.md)
 - [Chinozo](./Chinozo/index.md)
+- [Orangestar](./Orangestar/index.md)

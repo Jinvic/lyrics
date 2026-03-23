@@ -102,6 +102,8 @@ nav:
   - Chinozo:
     - 'Chinozo/index.md'
     - グッバイ宣言: 'Chinozo/グッバイ宣言.md'
+  - Orangestar:
+    - 'Orangestar/index.md'
 
 
 plugins:
