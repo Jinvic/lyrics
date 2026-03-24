@@ -108,6 +108,9 @@ nav:
     - 'Kemu/index.md'
   - じん:
     - 'じん/index.md'
+  - Others:
+    - 'Others/index.md'
+    - 天ノ弱: 'Others/天ノ弱.md'
 
 
 plugins:
