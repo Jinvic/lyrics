@@ -13,3 +13,4 @@
 - [Chinozo](./Chinozo/index.md)
 - [Orangestar](./Orangestar/index.md)
 - [Kemu](./Kemu/index.md)
+- [じん](./じん/index.md)

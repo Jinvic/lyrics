@@ -106,6 +106,8 @@ nav:
     - 'Orangestar/index.md'
   - Kemu:
     - 'Kemu/index.md'
+  - じん:
+    - 'じん/index.md'
 
 
 plugins:
