@@ -104,6 +104,8 @@ nav:
     - グッバイ宣言: 'Chinozo/グッバイ宣言.md'
   - Orangestar:
     - 'Orangestar/index.md'
+  - Kemu:
+    - 'Kemu/index.md'
 
 
 plugins:
