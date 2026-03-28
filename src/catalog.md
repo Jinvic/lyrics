@@ -14,4 +14,5 @@
 - [Orangestar](./Orangestar/index.md)
 - [Kemu](./Kemu/index.md)
 - [じん](./じん/index.md)
+- [ハチ](./ハチ/index.md)
 - [Others](./Others/index.md)
