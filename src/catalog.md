@@ -15,4 +15,5 @@
 - [Kemu](./Kemu/index.md)
 - [じん](./じん/index.md)
 - [ハチ](./ハチ/index.md)
+- [MARETU](./MARETU/index.md)
 - [Others](./Others/index.md)
