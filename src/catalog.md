@@ -17,4 +17,5 @@
 - [ハチ](./ハチ/index.md)
 - [MARETU](./MARETU/index.md)
 - [Neru](./Neru/index.md)
+- [ユリイ・カノン](./ユリイ・カノン/index.md)
 - [Others](./Others/index.md)
