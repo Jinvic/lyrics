@@ -16,4 +16,5 @@
 - [じん](./じん/index.md)
 - [ハチ](./ハチ/index.md)
 - [MARETU](./MARETU/index.md)
+- [Neru](./Neru/index.md)
 - [Others](./Others/index.md)

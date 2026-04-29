@@ -112,6 +112,10 @@ nav:
     - 'じん/index.md'
   - ハチ:
     - 'ハチ/index.md'
+  - MARETU:
+    - 'MARETU/index.md'
+  - Neru:
+    - 'Neru/index.md'
   - Others:
     - 'Others/index.md'
     - 天ノ弱: 'Others/天ノ弱.md'
