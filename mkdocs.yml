@@ -104,8 +104,8 @@ nav:
   - Chinozo:
     - 'Chinozo/index.md'
     - グッバイ宣言: 'Chinozo/グッバイ宣言.md'
-  - OrangeStar:
-    - 'OrangeStar/index.md'
+  - Orangestar:
+    - 'Orangestar/index.md'
   - Kemu:
     - 'Kemu/index.md'
   - じん:
@@ -120,6 +120,9 @@ nav:
     - 'ユリイ・カノン/index.md'
     - スーサイドパレヱド: 'ユリイ・カノン/スーサイドパレヱド.md'
     - だれかの心臓になれたなら: 'ユリイ・カノン/だれかの心臓になれたなら.md'
+  - wowaka:
+    - 'wowaka/index.md'
+    - アンノウン・マザーグース: 'wowaka/アンノウン・マザーグース.md'
   - Others:
     - 'Others/index.md'
     - 天ノ弱: 'Others/天ノ弱.md'

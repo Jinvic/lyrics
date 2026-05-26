@@ -18,4 +18,5 @@
 - [MARETU](./MARETU/index.md)
 - [Neru](./Neru/index.md)
 - [ユリイ・カノン](./ユリイ・カノン/index.md)
+- [wowaka](./wowaka/index.md)
 - [Others](./Others/index.md)
