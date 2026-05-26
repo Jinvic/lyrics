@@ -19,4 +19,5 @@
 - [Neru](./Neru/index.md)
 - [ユリイ・カノン](./ユリイ・カノン/index.md)
 - [wowaka](./wowaka/index.md)
+- [みきとP](./みきとP/index.md)
 - [Others](./Others/index.md)
