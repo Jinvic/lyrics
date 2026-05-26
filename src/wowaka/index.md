@@ -12,4 +12,4 @@
 - ワールズエンド・ダンスホール
 - アンハッピーリフレイン
 - [アンノウン・マザーグース](./アンノウン・マザーグース.md)
-    <span class="tooltip clickable" data-tooltip="by: 宇宇丶" data-href="https://zh.moegirl.org.cn/Unknown_Mother-Goose">📝</span>
+    [📝](https://zh.moegirl.org.cn/Unknown_Mother-Goose "by: 宇宇丶")

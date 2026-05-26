@@ -20,16 +20,16 @@ jobs:
               uses: actions/setup-python@v5
               with:
                 python-version: '3.13'
-            # 安装 MkDocs
+            # 安装 zensical
             - name: Install dependencies
               run: |
                 python -m pip install --upgrade pip
-                pip install mkdocs mkdocs-material PyYAML
-            # 构建 MkDocs
+                pip install zensical
+            # 构建 zensical
             - name: Build
               run: |
                 python scripts/preprocess.py
-                mkdocs build
+                zensical build
 
             # 部署到服务器
             - name: Deploy to server

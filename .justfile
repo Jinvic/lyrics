@@ -5,11 +5,11 @@ process:
 
 serve:
     python scripts/preprocess.py
-    mkdocs serve
+    zensical serve
 
 build:
     python scripts/preprocess.py
-    mkdocs build -d dist
+    zensical build
 
 # （[^）]*）
 convert file:

@@ -10,5 +10,5 @@
     - 🎤：ニコカラあり
 
 - [天ノ弱](./天ノ弱.md) by 164
-    <span class="tooltip clickable" data-tooltip="by: 佚名" data-href="https://zh.moegirl.org.cn/%E5%A4%A9%E4%B9%8B%E5%BC%B1">📝</span>
+    [📝](https://zh.moegirl.org.cn/%E5%A4%A9%E4%B9%8B%E5%BC%B1 "by: 佚名")
 - ブリキノダンス by 日向電工

@@ -12,4 +12,4 @@
 - 39みゅーじっく！
 - ロキ
 - [少女レイ](./少女レイ.md)
-    <span class="tooltip clickable" data-tooltip="by: 弓野篤禎" data-href="https://zh.moegirl.org.cn/%E5%B0%91%E5%A5%B3Ray">📝</span>
+    [📝](https://zh.moegirl.org.cn/%E5%B0%91%E5%A5%B3Ray "by: 弓野篤禎")

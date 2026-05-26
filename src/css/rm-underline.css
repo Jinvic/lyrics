@@ -1,0 +1,9 @@
+/* 移除所有链接的下划线 */
+.md-typeset a {
+    text-decoration: none;
+}
+
+/* 悬停时显示下划线（增强交互反馈） */
+.md-typeset a:hover {
+    text-decoration: underline;
+}

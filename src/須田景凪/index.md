@@ -8,7 +8,7 @@
     - 🎤：ニコカラあり
 
 - [シャルル](./シャルル.md)
-    <span class="tooltip clickable" data-tooltip="by: Alice／箱庭博物館" data-href="https://www9.atwiki.jp/vocaloidchly/pages/7632.html">📝</span>
+    [📝](https://www9.atwiki.jp/vocaloidchly/pages/7632.html "by: Alice／箱庭博物館")
 - メーベル
 - 雨とペトラ
 - パメラ
