@@ -23,4 +23,5 @@
 - [cosMo@暴走P](./cosMo@暴走P/index.md)
 - [syudou](./syudou/index.md)
 - [Omoi](./Omoi/index.md)
+- [柊キライ](./柊キライ/index.md)
 - [Others](./Others/index.md)
