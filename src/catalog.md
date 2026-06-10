@@ -21,4 +21,5 @@
 - [wowaka](./wowaka/index.md)
 - [みきとP](./みきとP/index.md)
 - [cosMo@暴走P](./cosMo@暴走P/index.md)
+- [syudou](./syudou/index.md)
 - [Others](./Others/index.md)
