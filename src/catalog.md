@@ -20,4 +20,5 @@
 - [ユリイ・カノン](./ユリイ・カノン/index.md)
 - [wowaka](./wowaka/index.md)
 - [みきとP](./みきとP/index.md)
+- [cosMo@暴走P](./cosMo@暴走P/index.md)
 - [Others](./Others/index.md)
