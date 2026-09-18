@@ -12,3 +12,5 @@
 - [天ノ弱](./天ノ弱.md) by 164
     [📝](https://zh.moegirl.org.cn/%E5%A4%A9%E4%B9%8B%E5%BC%B1 "by: 佚名")
 - ブリキノダンス by 日向電工
+- [フォニイ](./フォニイ.md) by ツミキ
+    [📝](https://zh.moegirl.org.cn/Phony "by: 南海電鉄")
