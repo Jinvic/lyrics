@@ -11,5 +11,7 @@
 - マトリョシカ
 - [ドーナツホール](./ドーナツホール.md)
     [📝](https://zh.moegirl.org.cn/Donut_Hole "by: 佚名")
+    [🎤](https://www.youtube.com/watch?v=pAXkmvrAChQ)
 - [砂の惑星](./砂の惑星.md)
     [📝](https://www9.atwiki.jp/vocaloidchly/pages/7756.html "by: pumyau")
+    [🎤](https://www.youtube.com/watch?v=kjQC-u9TS-8)

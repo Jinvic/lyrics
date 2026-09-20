@@ -14,7 +14,11 @@
     [📝](https://space.bilibili.com/8205736 "by: 南海電鉄NaiKaiRW")
 - ビーバー
 - テレキャスタービーボーイ
+    [🎤](https://www.youtube.com/watch?v=zzKsG2Dechs)
 - 限りなく灰色へ
+    [🎤](https://www.youtube.com/watch?v=4qjYLDQ9jZ0)
 - エゴロック
+    [🎤](https://www.youtube.com/watch?v=x-BKTRly7fk)
 - ラヴィ
+    [🎤](https://www.youtube.com/watch?v=rQ5PTo3NJJE)
 - おべか

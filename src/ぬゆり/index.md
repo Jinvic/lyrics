@@ -11,6 +11,8 @@
 - フィクサー
 - [命ばっかり](./命ばっかり.md)
     [📝](https://w.atwiki.jp/vocaloidchly/pages/7758.html "by: Alice／箱庭博物館")
+    [🎤](https://www.youtube.com/watch?v=TA9gTjT2AHc)
 - プロトディスコ
 - [ロウワー](./ロウワー.md)
     [📝](https://zh.moegirl.org.cn/User:Nokotsu "by: Nokotsu")
+    [🎤](https://www.youtube.com/watch?v=xh_8RzNqXo0)

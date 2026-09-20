@@ -40,7 +40,7 @@
     [🎤](https://www.youtube.com/watch?v=Sxaco4EvyjQ "by: ぺるたん♫ニコカラ チャンネル")
 - [人生はコメディ](./人生はコメディ.md)
     [📝](https://zh.moegirl.org.cn/%E4%BA%BA%E7%94%9F%E7%9A%86%E4%B8%BA%E5%96%9C%E5%89%A7 "by: 花绪")
-    [🎤](https://www.youtube.com/watch?v=k47-rquzYKg "by: ななつ【ニコカラ】")
+    [🎤](https://www.youtube.com/watch?v=k47-rquzYKg "by: ななつ")
 - ゼロ
 - [爆弾](./爆弾.md)
 - [桜の子](./桜の子.md)
@@ -70,7 +70,7 @@
 - [少年少女](./少年少女.md)
     [🎤](https://www.youtube.com/watch?v=6nQ2T5jS8E0 "by: ニコカラ")
 - 君の肺には宇宙が広がっている
-    [🎤](https://www.youtube.com/watch?v=O_A7Upflb9w "by: ななつ【ニコカラ】")
+    [🎤](https://www.youtube.com/watch?v=O_A7Upflb9w "by: ななつ")
 - [泥虫](./泥虫.md)
     [🎤](https://www.youtube.com/watch?v=dFiccALtqPA "by: Amphion Join")
 - [怒り](./怒り.md)
