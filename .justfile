@@ -1,14 +1,12 @@
-set shell := ["powershell.exe", "-c"]
+set windows-shell := ["pwsh", "-c"]
 
 process:
     python scripts/preprocess.py
 
-serve:
-    python scripts/preprocess.py
+serve: process
     zensical serve
 
-build:
-    python scripts/preprocess.py
+build: process
     zensical build
 
 # （[^）]*）
