@@ -14,3 +14,5 @@
 - ブリキノダンス by 日向電工
 - [フォニイ](./フォニイ.md) by ツミキ
     [📝](https://zh.moegirl.org.cn/Phony "by: 南海電鉄")
+- [春嵐](./春嵐.md) by John
+    [📝](https://zh.moegirl.org.cn/%E6%98%A5%E5%B2%9A(john) "by: u4")
