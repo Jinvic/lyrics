@@ -27,4 +27,5 @@
 - [れるりり](./れるりり/index.md)
 - [sasakure.UK](./sasakure.UK/index.md)
 - [40mP](./40mP/index.md)
+- [てにをは](./てにをは/index.md)
 - [Others](./Others/index.md)
