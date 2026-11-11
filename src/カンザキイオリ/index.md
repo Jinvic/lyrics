@@ -32,6 +32,8 @@
     [📝](https://www.bilibili.com/video/BV1Fb411M7AG "by: 井泉冬流")
     [🎤](https://www.nicovideo.jp/watch/sm34952575 "by: ★ぺるたん✪")
 - [進化劇](./進化劇.md)
+- [結局死ぬってなんなんだ](./結局死ぬってなんなんだ.md)
+    [📝](#カンザキイオリ "by: 佚名")
 - [音楽なんてわからない](./音楽なんてわからない.md)
     [📝](https://zh.moegirl.org.cn/%E6%88%91%E4%B8%8D%E6%87%82%E9%9F%B3%E4%B9%90 "by: 佚名")
     [🎤](https://www.youtube.com/watch?v=ZZXj175Ur2M "by: れんしゅ")
